@@ -1,7 +1,7 @@
 {
   "latest_version": "1.0",
   "min_required_version": "1.0",
-  "status": "RUN",
+  "status": "FAIL",
   "message": "서버가 정상 작동 중입니다. 오늘도 화이팅!",
   "serverip":"192.168.219.45"
 }
